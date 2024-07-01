@@ -135,3 +135,15 @@
 [23-Jun-2024 15:16:08] NOTICE: exiting, bye-bye!
 [29-Jun-2024 16:45:42] NOTICE: fpm is running, pid 1374
 [29-Jun-2024 16:45:42] NOTICE: ready to handle connections
+[29-Jun-2024 17:12:48] NOTICE: Terminating ...
+[29-Jun-2024 17:12:48] NOTICE: Terminating ...
+[29-Jun-2024 17:12:48] NOTICE: exiting, bye-bye!
+[01-Jul-2024 14:37:57] NOTICE: fpm is running, pid 3073
+[01-Jul-2024 14:37:57] NOTICE: ready to handle connections
+[01-Jul-2024 14:45:49] WARNING: [pool www] child 3081 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[01-Jul-2024 14:45:49] WARNING: [pool www] child 3081 said into stderr: "sh: -c: line 0: `<hr class="section-break">'"
+[01-Jul-2024 14:45:53] WARNING: [pool www] child 3081 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[01-Jul-2024 14:45:53] WARNING: [pool www] child 3081 said into stderr: "sh: -c: line 0: `<hr class="section-break">'"
+[01-Jul-2024 15:04:31] NOTICE: Terminating ...
+[01-Jul-2024 15:04:31] NOTICE: Terminating ...
+[01-Jul-2024 15:04:31] NOTICE: exiting, bye-bye!
